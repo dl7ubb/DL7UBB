@@ -1,1 +1,1 @@
-# DL7UBB
+# DL7UBB Simplex-Node mit Elenata, svxlink, RaspberryPi
